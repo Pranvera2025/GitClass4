@@ -3,6 +3,10 @@ package com.NeoTech.Lesson02;
 public class VariableDeclaration {
 
 	public static void main(String[] args) {
+		
+		//Data Type 	Name/Identifier 	Operator (=)	Value
+		
+		
 	//Data Type 	Name/Identifier 	Operator (=)	Value
 		
 		//1st way to declare and assign

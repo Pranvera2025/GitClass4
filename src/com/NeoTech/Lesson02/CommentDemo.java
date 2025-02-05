@@ -4,6 +4,10 @@ public class CommentDemo {
 
 	public static void main(String[] args) {
 		
+		
+		//
+//		The main method was automatically generated when we created CommentDemo  
+
 //		The main method was automatically generated when we created CommentDemo  
 //		This is a single-line comment 
 //		If I want to type more comments, I must create new single line comment
